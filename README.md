@@ -1,7 +1,7 @@
 # 🌌 Bem-vindo ao meu ecossistema de desenvolvimento!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;TypeScript+%26+JavaScript+Expert;DevOps+%26+Container+Enthusiast;Bun+%26+Node.js+Runtimes" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;TypeScript+%26+JavaScript+Expert;DevOps+%26+Container+Enthusiast;Bun+%26+Node.js+Runtimes" alt="Typing SVG" />
 </p>
 
 ---
@@ -42,7 +42,7 @@ Sou um desenvolvedor focado em criar soluções de ponta a ponta, unindo a veloc
 ### 📈 Gráfico de Atividade Semanal
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=johngbl&theme=dracula&area=true&hide_border=true" width="100%" alt="Gráfico de Atividade" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=johngbl&bg_color=0D1117&color=C9D1D9&line=00D2FF&point=00D2FF&area_color=00D2FF&title_color=00D2FF&hide_border=true&area=true" width="100%" alt="Gráfico de Atividade" />
 </div>
 
 ---
@@ -62,5 +62,5 @@ Adoro trocar ideias sobre novos projetos, arquitetura de sistemas ou até mesmo 
 
 <p align="center">
   <br>
-  <sub>Construído com 💜 e muita linha de código.</sub>
+  <sub>Construído com 💙 e muita linha de código.</sub>
 </p>
